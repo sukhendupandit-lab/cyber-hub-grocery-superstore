@@ -13,9 +13,9 @@ let storePrintRates: PrintVarietyRate[] = [...DEFAULT_PRINT_RATES];
 let storePromos: PromoOffer[] = [...PROMO_OFFERS];
 let ownerPassword = '1234'; // Default protective owner password
 let storeSettings = {
-  storeName: 'CYBER HUB',
+  storeName: 'DASAKARMA BHANDAR',
   storeTagline: 'Cyber Hub for Online Work, Fast Printing & Fresh Groceries',
-  address: '108 Cyber & Digital Avenue, Tech Hub District',
+  address: Renjura, Dabtan, Paschim Medinipur District',
   phone: '+1 (555) 902-3847',
   notice: 'Store Open • Cyber Hub Online Work & Counter Pickup Active'
 };
