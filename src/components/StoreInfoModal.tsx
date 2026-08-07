@@ -37,7 +37,7 @@ export const StoreInfoModal: React.FC<StoreInfoModalProps> = ({
             <MapPin className="w-5 h-5 text-cyan-400 shrink-0 mt-0.5" />
             <div>
               <div className="font-bold text-white">Store Address</div>
-              <p className="text-slate-300 mt-0.5">108 Tech Avenue, Cyber District, Sector 4</p>
+              <p className="text-slate-300 mt-0.5">Renjura, Dantan, Paschim Medinipur, India</p>
               <span className="text-[10px] text-slate-500">Convenient Parking & Wheelchair Accessible</span>
             </div>
           </div>
@@ -55,7 +55,7 @@ export const StoreInfoModal: React.FC<StoreInfoModalProps> = ({
             <Phone className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
             <div>
               <div className="font-bold text-white">Contact & WhatsApp Orders</div>
-              <p className="text-slate-300 mt-0.5">+1 (555) 902-3847 / print@cybergroc.store</p>
+              <p className="text-slate-300 mt-0.5">+91 9083112601 / </p>
             </div>
           </div>
 
