@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Hub & Grocery Superstore",
+  "description": "Cyber Hub for online work (govt forms, passport photos, printing, utility bills, PC workstations) & fresh groceries with live owner customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
