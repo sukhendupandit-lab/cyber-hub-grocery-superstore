@@ -15,7 +15,7 @@ let ownerPassword = '1234'; // Default protective owner password
 let storeSettings = {
   storeName: 'DASAKARMA BHANDAR',
   storeTagline: 'Cyber Hub for Online Work, Fast Printing & Fresh Groceries',
-  address: Renjura, Dabtan, Paschim Medinipur District',
+  address: 'Renjura, Dabtan, Paschim MedinipurDistrict',
   phone: '+91 9083112601',
   notice: 'Store Open • Cyber Hub Online Work & Counter Pickup Active'
 };
