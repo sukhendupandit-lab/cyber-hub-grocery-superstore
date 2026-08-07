@@ -16,7 +16,7 @@ let storeSettings = {
   storeName: 'DASAKARMA BHANDAR',
   storeTagline: 'Cyber Hub for Online Work, Fast Printing & Fresh Groceries',
   address: Renjura, Dabtan, Paschim Medinipur District',
-  phone: '+1 (555) 902-3847',
+  phone: '+91 9083112601',
   notice: 'Store Open • Cyber Hub Online Work & Counter Pickup Active'
 };
 
