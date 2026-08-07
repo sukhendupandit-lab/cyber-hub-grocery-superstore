@@ -55,7 +55,7 @@ export const StoreInfoModal: React.FC<StoreInfoModalProps> = ({
             <Phone className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
             <div>
               <div className="font-bold text-white">Contact & WhatsApp Orders</div>
-              <p className="text-slate-300 mt-0.5">+91 9083112601 / </p>
+              <p className="text-slate-300 mt-0.5">+91 9083112601 / pallabpanda1995@gmail.com</p>
             </div>
           </div>
 
