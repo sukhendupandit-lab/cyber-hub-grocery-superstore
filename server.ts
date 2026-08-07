@@ -23,7 +23,7 @@ let storeSettings = {
 // Helper to generate readable token numbers like "CYB-8092"
 function generateToken(): string {
   const num = Math.floor(1000 + Math.random() * 9000);
-  return `CM-${num}`;
+  return `CM-₹{num}`;
 }
 
 // Calculate print cost reliably
